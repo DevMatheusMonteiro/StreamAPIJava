@@ -1,11 +1,5 @@
 # Stream API
 
-Tasks: Yes
-Tags: BootCamp Java, DIO, Java
-Date: June 19, 2024
-Post: No
-Work: No
-
 # Ganhando Produtividade com Stream API e Java
 
 - A Stream API traz uma nova opção para a manipulação de coleções em Java seguindo os princípios da programação funcional.
